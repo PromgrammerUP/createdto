@@ -1,0 +1,1 @@
+package org.javachina.createdto.dto;public class LocationDto {private String address;public void setAddress(String s){this.address=s;}public String getAddress(){return this.address;}private int locationid;public void setLocationid(int s){this.locationid=s;}public int getLocationid(){return this.locationid;}}

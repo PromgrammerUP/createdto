@@ -1,0 +1,1 @@
+package org.javachina.createdto.dto;public class Emp_1Dto {private String empname;public void setEmpname(String s){this.empname=s;}public String getEmpname(){return this.empname;}private int empid;public void setEmpid(int s){this.empid=s;}public int getEmpid(){return this.empid;}}

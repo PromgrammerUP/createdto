@@ -1,0 +1,1 @@
+package org.javachina.createdto.dto;public class Goods_typeDto {private String name;public void setName(String s){this.name=s;}public String getName(){return this.name;}private int id;public void setId(int s){this.id=s;}public int getId(){return this.id;}}

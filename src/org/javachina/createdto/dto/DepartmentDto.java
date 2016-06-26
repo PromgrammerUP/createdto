@@ -1,0 +1,1 @@
+package org.javachina.createdto.dto;public class DepartmentDto {private String departname;public void setDepartname(String s){this.departname=s;}public String getDepartname(){return this.departname;}private int departid;public void setDepartid(int s){this.departid=s;}public int getDepartid(){return this.departid;}}

@@ -1,0 +1,1 @@
+package org.javachina.createdto.dto;public class Loginuser_typeDto {private String typename;public void setTypename(String s){this.typename=s;}public String getTypename(){return this.typename;}private int typeid;public void setTypeid(int s){this.typeid=s;}public int getTypeid(){return this.typeid;}}
